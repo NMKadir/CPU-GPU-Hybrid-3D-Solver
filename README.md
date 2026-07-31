@@ -19,7 +19,7 @@ The solver was benchmarked across various 3D grid sizes ($N \times N \times N$) 
 | **48x48x48** | 110,592 | 1.0028 s | 0.4589 s | **2.18x** |
 | **64x64x64** | 262,144 | 2.6911 s | 1.1785 s | **2.28x** |
 
-*(Execution times represent the total time to converge to a residual tolerance of $10^{-6}$)*
+*(Execution times represent the total time to converge to a residual tolerance of $10^{-6}$ )*
 
 ![Performance Scaling](performance_scaling.png)
 
