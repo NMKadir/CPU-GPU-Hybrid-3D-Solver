@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_cpu.dir/src/cpu/main_cpu.cpp.o CMakeFiles/main_cpu.dir/src/cpu/cgls_cpu.cpp.o CMakeFiles/main_cpu.dir/src/common/utils.cpp.o -o main_cpu 

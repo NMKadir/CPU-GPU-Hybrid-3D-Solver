@@ -1,0 +1,4 @@
+/home/naheen/Storage/repo/CPU-GPU-Hybrid-3D-Solver/build/CMakeFiles/main_cpu.dir
+/home/naheen/Storage/repo/CPU-GPU-Hybrid-3D-Solver/build/CMakeFiles/main_cuda.dir
+/home/naheen/Storage/repo/CPU-GPU-Hybrid-3D-Solver/build/CMakeFiles/edit_cache.dir
+/home/naheen/Storage/repo/CPU-GPU-Hybrid-3D-Solver/build/CMakeFiles/rebuild_cache.dir

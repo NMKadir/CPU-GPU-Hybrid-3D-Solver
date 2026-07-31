@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_cuda.dir/src/cuda/main_cuda.cu.o CMakeFiles/main_cuda.dir/src/cuda/cgls_cuda.cu.o CMakeFiles/main_cuda.dir/src/common/utils.cpp.o -o main_cuda   -L/usr/lib/x86_64-linux-gnu/stubs  -L/usr/lib/gcc/x86_64-linux-gnu/12  -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
